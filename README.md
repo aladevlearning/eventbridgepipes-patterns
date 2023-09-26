@@ -1,0 +1,1 @@
+# eventbridgepipes-patterns
